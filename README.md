@@ -3,8 +3,8 @@
 
 
 - 👋 Hi, I’m @a-sha0234
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently learning React library as well as improving my other skills 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning backned technologies like nodejs, mongoDb etc,  as well as improving my other skills 
 
 
 
