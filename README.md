@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @a-sha0234
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning serverside technologies like nodejs, express and and mongoDB as a database management system,  as well as improving my other skills 
+- 🌱 I’m currently learning serverside technologies like nodejs, express and mongoDB as a database management system,  as well as improving my other skills 
 
 
 
