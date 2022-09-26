@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @a-sha0234
-- 👀 I’m interested in web development 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently working on improving my front-end skills aswell as my backend through creating different projects   
 
 
