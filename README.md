@@ -15,7 +15,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-sha0234&hide=ejs,html&layout=compact" />
 </a>
-<div style = "margin-top: 10px;">
+<div style = "margin-top: 30px;">
 <img alt  = "SASS" align = "left" src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img alt = "JavaScript" align = "left" src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt = "TypeScript" align = "left" src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
