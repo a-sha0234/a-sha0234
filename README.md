@@ -1,11 +1,20 @@
 <h1>Hi there, im a-sha0234(●'◡'●)</h1>
 
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=a-sha0234&show_icons=true&theme=radical"/>
 
 
-<img align = "left" width = "47%"  height = "250px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a-sha0234&layout=compact"/>
 
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-sha0234&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-sha0234&hide=ejs,html" />
+</a>
 
 <img alt  = "SASS" align = "left" src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img alt = "JavaScript" align = "left" src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
